@@ -2,6 +2,10 @@
   🚩 FastImage
 </h1>
 
+<h2>
+  This REPO is clone from react-native-fast-image V8.3.2 and changed to mavenCentral for temporary use.
+</h2>
+
 <div align="center">
 
 Performant React Native image component.
